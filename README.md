@@ -39,3 +39,12 @@ Heart of main board is of course Arduino Mega mounted inside driver case. Board 
 * RS485
 
 ### Dimmer board
+
+## Sponsors
+
+If you like to sponsor our project or have idea for cooperation please contact us! 
+Please keep in mind project always will be open source and cannot closed for sponsor's solutions only.
+
+## Contributors
+
+We just start this project. If you plan to build your smart home in future or alreaady started and want to help us - contact us! We will definitely need your knowledge to improve project!
